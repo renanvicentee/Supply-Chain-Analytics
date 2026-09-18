@@ -16,6 +16,7 @@ A solução simula uma operação logística de grande escala com aproximadament
   <img src="https://cdn.simpleicons.org/delta/003366" width="48" height="48" alt="Delta Lake"/>
 </p>
 
+
 ## 🎯 Visão Geral
 
 <table>
@@ -80,7 +81,7 @@ A solução simula uma operação logística de grande escala com aproximadament
 # 🏗️ Arquitetura da Solução
 
 <p align="center">
-  <img src="imagens/Arquitetura.png" alt="Supply Chain Analytics Lakehouse Architecture" width="80%">
+  <img src="imagens/Arquitetura.png" alt="Supply Chain Analytics Lakehouse Architecture" width="100%">
 </p>
 
 O projeto utiliza uma arquitetura **Lakehouse no Databricks**, combinando armazenamento flexível, processamento distribuído e tabelas estruturadas para consumo analítico.
@@ -247,8 +248,8 @@ O dashboard permite analisar:
 
 
 <p align="center">
-  <img src="imagens/dashboard databricks executivo.png" alt="Dashboard executivo no Databricks" width="100%">
-  <img src="imagens/note.png.png" alt="Notes pra ingestão gold" width="100%">
+  <img src="imagens/dashboard databricks executivo.png" alt="Dashboard executivo no Databricks" width="50%">
+  <img src="imagens/note.png.png" alt="Notebook da camada Gold" width="49%">
 </p>
 
 
