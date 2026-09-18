@@ -4,7 +4,16 @@ Projeto de **Engenharia e Análise de Dados** aplicado ao contexto de Logística
 
 A solução simula uma operação logística de grande escala com aproximadamente **22 milhões de registros**, percorrendo todo o fluxo desde os arquivos brutos até dashboards e indicadores de negócio.
 
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" width="48" height="48" alt="Databricks"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/delta/003366" width="42" height="42" alt="Delta Lake"/>
+</p>
 
 ## 🎯 Visão Geral
 
