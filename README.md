@@ -12,6 +12,7 @@ A solução simula uma operação logística de grande escala com aproximadament
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" width="48" height="48" alt="Databricks"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/delta/003366" width="48" height="48" alt="Delta Lake"/>
 </p>
 
