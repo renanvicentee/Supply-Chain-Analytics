@@ -237,8 +237,8 @@ O dashboard permite analisar:
 
 
 <p align="center">
-  <img src="imagens/dashboard databricks executivo.png" alt="Dashboard executivo no Databricks" width="50%">
-  <img src="imagens/note.png.png" alt="Notes pra ingestão gold" width="49%">
+  <img src="imagens/dashboard databricks executivo.png" alt="Dashboard executivo no Databricks" width="100%">
+  <img src="imagens/note.png.png" alt="Notes pra ingestão gold" width="100%">
 </p>
 
 
