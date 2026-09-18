@@ -248,8 +248,8 @@ O dashboard permite analisar:
 
 
 <p align="center">
-  <img src="imagens/dashboard databricks executivo.png" alt="Dashboard executivo no Databricks" width="50%">
-  <img src="imagens/note.png.png" alt="Notebook da camada Gold" width="49%">
+  <img src="imagens/dashboard databricks executivo.png" alt="Dashboard executivo no Databricks" width="100%">
+  <img src="imagens/note.png.png" alt="Notebook da camada Gold" width="100%">
 </p>
 
 
